@@ -1,0 +1,11 @@
+tensorflow
+PyQt6
+numpy
+opencv-python
+pillow
+jupyter
+kaggle
+matplotlib
+pytest
+black
+flake8
